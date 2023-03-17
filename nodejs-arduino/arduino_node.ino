@@ -6,7 +6,7 @@ void setup() {
 }
 
 void loop() {
-  percent = round(analogRead(2) / 1024.00 * 100);
+  percent = round(analogRead(3) / 1024.00 * 100);
 
   if(percent != prevPercent) {
 
@@ -14,5 +14,5 @@ void loop() {
     prevPercent = percent;
   }
 
-  delay(100);
+  delay(15);
 }

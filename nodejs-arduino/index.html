@@ -1,28 +1,22 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>Communcating Between a Webpage and an Arduino</title>
-        <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
-    </head>
-    <body>
-        <h1>Communicating Between a Webpage and an Arduino</h1>
+  <head>
+    <title>Communcating Between a Webpage and an Arduino</title>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+  </head>
+  <body>
+    <h1>Communicating Between a Webpage and an Arduino</h1>
 
-        <div id="sample"></div>
+    <div id="sample"></div>
 
-        <script>
-        
-        const socket = io();
+    <script>
+      const socket = io();
 
-        socket.on('data', function(data){
+      socket.on('data', function (data) {
+        console.log(data);
 
-            console.log(data);
-
-            document.getElementById('sample').innerText = data;
-
-        });
-
-        </script>
-
-
-    </body>
+        document.getElementById('sample').innerText = data;
+      });
+    </script>
+  </body>
 </html>
