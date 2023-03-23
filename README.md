@@ -15,3 +15,5 @@ You can submit requests for new examples or corrections using issues or pull req
 [Introduction to TouchDesigner eBook](https://nvoid.gitbooks.io/introduction-to-touchdesigner/content/)
 
 [Visualizing Sound: A Beginner’s Guide to Using TouchDesigner with Live](https://www.ableton.com/en/blog/visualizing-sound-a-beginners-guide-to-using-touchdesigner-with-live/)
+
+[TouchDesigner example files with YouTube tutorials](https://github.com/exsstas/TD-tutorials)
