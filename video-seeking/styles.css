@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+html {
+  height: -webkit-fill-available;
+}
+
+body {
+  background-color: black;
+  min-height: 100vh;
+  /* mobile viewport bug fix */
+  min-height: -webkit-fill-available;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#main-canvas {
+  width: 100%;
+  object-fit: contain;
+  aspect-ratio: 16/9;
+}
