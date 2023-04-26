@@ -1,6 +1,6 @@
-# [Video Seeking Mouse Interaction](https://xrrca.github.io/creative-js/video-seeking/)
+# [Video Seeking Mouse Interaction](https://xrrca.github.io/CreativeCoding/js/video-seeking/)
 
-Based on the effect from https://cantouchthis.studio/. [Try it live](https://xrrca.github.io/js-examples/video-seeking/).
+Based on the effect from https://cantouchthis.studio/. [Try it live](https://xrrca.github.io/CreativeCoding/js/video-seeking/).
 
 ## Generating Images
 
