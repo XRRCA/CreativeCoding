@@ -14,4 +14,4 @@
 
 ![An anime drawing of a woman standing above a cityscape. Red light flickers on her jacket and across the scene, controlled by a computer mouse seen moving above the image](https://user-images.githubusercontent.com/3166481/234556839-ff54389b-9262-4f4b-8dc5-aac14bf54421.gif)
 
-# video-seeking
+# [video-seeking](https://xrrca.github.io/CreativeCoding/js/video-seeking/)
