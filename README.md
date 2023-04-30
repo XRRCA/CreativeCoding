@@ -16,7 +16,7 @@ You can submit requests for new examples or corrections using issues or pull req
 
 Example files for various tasks in TouchDesigner.
 
-# [Javascript Examples](touchdesigner)
+# [Javascript Examples](js)
 
 Examples and links to live demos with p5js, vanilla js, and more.
 
