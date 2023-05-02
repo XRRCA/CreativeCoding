@@ -4,7 +4,7 @@ Connects a potentiometer's output to a web page running on a computer.
 
 ## Using this example
 
-Quickstart: Run `npm install` then `node app.js`.
+Quickstart: Run `npm install` then `node app.js`. Plug in Arduino and upload sketch and open `localhost:8000` on your browser.
 
 Prerequisites:
 
@@ -34,5 +34,4 @@ Arduino   →    Node     →     Browser
 
 ## Further
 
-A version of this example but for outputting text on successive button presses
-https://gist.github.com/XRRCA/1dbf8244d448157f4d2cd8d82dabcbde
+[A version of this example but for outputting text on successive button presses](https://gist.github.com/XRRCA/1dbf8244d448157f4d2cd8d82dabcbde)
