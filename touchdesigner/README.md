@@ -12,6 +12,10 @@
 
 ![Moving textures which look vaguely like a brain scan](noise-loop-with-rgbadelay/noise-loop-with-rgbadelay.gif)
 
+# opencv-background-removal
+
+![A black and white video showing background removal - the empty background is now white and the foreground, which is a man sitting looking at the screen, is white](opencv-background-removal/bgr.gif)
+
 # opencv-blob-tracking
 
 <img width="1912" alt="Screenshot 2023-03-22 at 11 11 37" src="https://user-images.githubusercontent.com/3166481/226887264-7fbf37c0-0f28-4d98-8a6f-07a2f2f8e5b2.png">
