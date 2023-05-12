@@ -2,6 +2,10 @@
 
 <img width="1392" alt="Screenshot 2023-03-28 at 16 38 25" src="https://user-images.githubusercontent.com/3166481/228291685-7f1a26e4-2f01-4c4d-9fd4-61084189f5d4.png">
 
+# feedback-bloom
+
+![A glowing pearl marble with a solar wind type effect achieved through feedback and bloom](feedback-bloom/pearlball.gif)
+
 # harmonic-circles
 
 ![Screenshot 2023-03-17 at 15 22 32](https://user-images.githubusercontent.com/3166481/225947780-7751597f-ce37-40bb-8ea3-41f01b6c93bf.png)
