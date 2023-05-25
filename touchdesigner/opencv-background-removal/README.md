@@ -6,6 +6,8 @@ This repository serves as an example of converting OpenCV python code for use in
 
 For a more complete background removal method, you may want to use [mmhmm](mmhmm.app/download).
 
+[Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/opencv-background-removal/opencv-background-removal.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
+
 ## Running the Python example
 
 First, install the required packages in a virtual environment
