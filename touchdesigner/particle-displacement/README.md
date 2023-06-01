@@ -6,4 +6,4 @@ A demonstration of particle systems, turbulence, and the power of post-processin
 
 An audio reactive version is provided as a starting point for audio reactive projects. For system audio as input you'll need a loopback audio driver like [Blackhole](https://github.com/ExistentialAudio/BlackHole)
 
-[Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/particle-displacement/particle%20displacement.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
+[Download `particle displacement.toe`](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/particle-displacement/particle%20displacement.toe) | [Download `audio reactive particle displacement.toe`](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/particle-displacement/audio%20reactive%20particle%20displacement.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)

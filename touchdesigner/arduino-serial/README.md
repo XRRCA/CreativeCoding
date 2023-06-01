@@ -8,4 +8,4 @@ This example is designed to be used with the AnalogInput built-in example for Ar
 
 ![A circuit diagram with a potentiometer hooked up to an Arduino](https://docs.arduino.cc/static/2e2882d8348e2aa70bcac68d886bf9a4/29114/circuit-pot.png)
 
-[Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/arduino-serial/arduino-serial.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
+[Download `arduino-serial.toe`](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/arduino-serial/arduino-serial.toe) | [Download `arduino-serial-video-speed.toe`](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/arduino-serial/arduino-serial-video-speed.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
