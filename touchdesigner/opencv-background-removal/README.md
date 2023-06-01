@@ -4,7 +4,7 @@
 
 This repository serves as an example of converting OpenCV python code for use in TouchDesigner script TOPs. Compare and contrast `opencv-background-removal.py` with the contents of the script TOP to get started with custom OpenCV python code in TouchDesigner.
 
-For a more complete background removal method, you may want to use [mmhmm](mmhmm.app/download).
+For a more complete background removal method, you may want to use [mmhmm](mmhmm.app/download) or the [nvbackground TOP](https://docs.derivative.ca/Nvidia_Background_TOP) for Windows.
 
 [Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/opencv-background-removal/opencv-background-removal.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
 
