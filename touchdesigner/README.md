@@ -6,6 +6,10 @@
 
 <img width="1392" alt="Screenshot 2023-03-28 at 16 38 25" src="https://user-images.githubusercontent.com/3166481/228291685-7f1a26e4-2f01-4c4d-9fd4-61084189f5d4.png">
 
+# [color-custom-lookup](color-custom-lookup)
+
+![A wave-like pattern oscillating between three different bright colors](color-lookup-custom/color-lookup.gif)
+
 # [feedback-bloom](feedback-bloom)
 
 ![A glowing pearl marble with a solar wind type effect achieved through feedback and bloom](feedback-bloom/pearlball.gif)
@@ -15,6 +19,8 @@
 ![Screenshot 2023-03-17 at 15 22 32](https://user-images.githubusercontent.com/3166481/225947780-7751597f-ce37-40bb-8ea3-41f01b6c93bf.png)
 
 # [keyboard-input-switch](keyboard-input-switch)
+
+![A TouchDesigner file showing a network of video files. One is selected to play using the Switch TOP.](keyboard-input-switch/keyboard-input-switch.png)
 
 # [noise-loop-with-rgbadelay](noise-loop-with-rgbadelay)
 
@@ -31,3 +37,7 @@
 # [particle-displacement](particle-displacement)
 
 ![Screenshot 2023-03-29 at 12 51 46](https://user-images.githubusercontent.com/3166481/228526994-121ca01e-d93e-4294-a185-d6a7c3e60c63.png)
+
+# [projection-synced](projection-synced)
+
+![A TouchDesigner file showing a network of video files playing at the same time](projection-synced/projection-synced.png)
