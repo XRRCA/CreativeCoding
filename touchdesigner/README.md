@@ -14,6 +14,14 @@
 
 ![A glowing pearl marble with a solar wind type effect achieved through feedback and bloom](feedback-bloom/pearlball.gif)
 
+# [feedback-tunnel](feedback-tunnel)
+
+![A colorful tunnel that morphs slowly and changes color](feedback-tunnel/feedback-tunnel.gif)
+
+# [feedback-pixel-sorting](feedback-pixel-sorting)
+
+![A city nightscape, but the pixels are seemingly bleeding off the page slowly](feedback-pixel-sorting/feedback-pixel-sorting.gif)
+
 # [harmonic-circles](harmonic-circles)
 
 ![Screenshot 2023-03-17 at 15 22 32](https://user-images.githubusercontent.com/3166481/225947780-7751597f-ce37-40bb-8ea3-41f01b6c93bf.png)
