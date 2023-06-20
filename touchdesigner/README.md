@@ -26,10 +26,6 @@
 
 ![Screenshot 2023-03-17 at 15 22 32](https://user-images.githubusercontent.com/3166481/225947780-7751597f-ce37-40bb-8ea3-41f01b6c93bf.png)
 
-# [keyboard-input-switch](keyboard-input-switch)
-
-![A TouchDesigner file showing a network of video files. One is selected to play using the Switch TOP.](keyboard-input-switch/keyboard-input-switch.png)
-
 # [noise-loop-with-rgbadelay](noise-loop-with-rgbadelay)
 
 ![Moving textures which look vaguely like a brain scan](noise-loop-with-rgbadelay/noise-loop-with-rgbadelay.gif)
@@ -46,10 +42,14 @@
 
 ![Screenshot 2023-03-29 at 12 51 46](https://user-images.githubusercontent.com/3166481/228526994-121ca01e-d93e-4294-a185-d6a7c3e60c63.png)
 
-# [projection-synced](projection-synced)
-
-![A TouchDesigner file showing a network of video files playing at the same time](projection-synced/projection-synced.png)
-
 # [shaders-shadertoy-dither](shaders-shadertoy-dither)
 
 ![A picture of oil drums, dithered. Dithering is a technique which was used to convert higher bit depth images to lower bit depth images, i.e. 8 bit (256) color to 1 bit (black and white). It was used for early computer systems to save space.](shaders-shadertoy-dither/shadertoy-dither.png)
+
+# [video-projection-synced](video-projection-synced)
+
+![A TouchDesigner file showing a network of video files playing at the same time](video-projection-synced/video-projection-synced.png)
+
+# [video-switcher](video-switcher)
+
+![A TouchDesigner file showing a network of video files. One is selected to play using the Switch TOP.](video-switcher/video-switcher.png)
