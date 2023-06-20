@@ -49,3 +49,7 @@
 # [projection-synced](projection-synced)
 
 ![A TouchDesigner file showing a network of video files playing at the same time](projection-synced/projection-synced.png)
+
+# [shaders-shadertoy-dither](shaders-shadertoy-dither)
+
+![A picture of oil drums, dithered. Dithering is a technique which was used to convert higher bit depth images to lower bit depth images, i.e. 8 bit (256) color to 1 bit (black and white). It was used for early computer systems to save space.](shaders-shadertoy-dither/shadertoy-dither.png)
