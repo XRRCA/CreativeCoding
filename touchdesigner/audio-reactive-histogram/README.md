@@ -6,4 +6,4 @@ Joy Division style lines demonstrating SOPtoCHOP to replace one channel and back
 
 [Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/audio-reactive-histogram/Audio%20Histogram.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
 
-https://www.youtube.com/watch?v=ua4zKWJg22g
+Based on Ab_out's [Youtube tutorial](https://www.youtube.com/watch?v=ua4zKWJg22g)

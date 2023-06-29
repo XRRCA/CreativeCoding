@@ -6,4 +6,4 @@ An example of using noise for displacement and a grid SOP for generating the und
 
 [Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/noise-topographic-displacement/noise-topographic-displacement.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
 
-https://www.youtube.com/watch?v=Nkv74W2v-zY
+Based on elekktronaut's [Youtube tutorial](https://www.youtube.com/watch?v=Nkv74W2v-zY)

@@ -6,4 +6,4 @@ Demonstrates simple use of geometry, camera, and render, and time based paramete
 
 [Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/harmonic-circles/Harmonic%20Circles.7.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
 
-https://www.youtube.com/watch?v=wmaRUhFOp9w
+Based on Acrylicode's [Youtube tutorial](https://www.youtube.com/watch?v=wmaRUhFOp9w)

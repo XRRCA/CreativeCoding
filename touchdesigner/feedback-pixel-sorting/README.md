@@ -6,4 +6,4 @@ A pixel sorting style effect that is a simple demonstration of feedback loops an
 
 [Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/feedback-pixel-sorting/feedback-pixel-sorting.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
 
-https://www.youtube.com/watch?v=xasLIEw23zY
+Based on elekktronaut's [Youtube tutorial](https://www.youtube.com/watch?v=xasLIEw23zY)
