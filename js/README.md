@@ -22,6 +22,10 @@ Try the [live demo](https://editor.p5js.org/mngyuan/sketches/a3PbXLiyB)
 
 ![An anime drawing of a woman standing above a cityscape. Red light flickers on her jacket and across the scene, controlled by a computer mouse seen moving above the image](https://user-images.githubusercontent.com/3166481/234556839-ff54389b-9262-4f4b-8dc5-aac14bf54421.gif)
 
+# [video-lookup-squares](https://editor.p5js.org/mngyuan/sketches/2yfqdcgv4)
+
+![2023 displayed in two lines 20, 23, with waves spinning like a fan through the numbers](video-lookup-squares/video-lookup-squares.gif)
+
 # [video-seeking](https://xrrca.github.io/CreativeCoding/js/video-seeking/)
 
 Try the [live demo](https://xrrca.github.io/CreativeCoding/js/video-seeking/)
