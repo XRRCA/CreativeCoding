@@ -10,6 +10,10 @@
 
 ![A wave-like pattern oscillating between three different bright colors](color-lookup-custom/color-lookup.gif)
 
+# [data-smoothing](data-smoothing)
+
+![A TouchDesigner network showing a noise CHOP being converted into a DAT then back into a CHOP for averaging](data-smoothing/data-smoothing.gif)
+
 # [feedback-bloom](feedback-bloom)
 
 ![A glowing pearl marble with a solar wind type effect achieved through feedback and bloom](feedback-bloom/pearlball.gif)
