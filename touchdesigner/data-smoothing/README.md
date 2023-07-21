@@ -1,6 +1,6 @@
 # Data smoothing
 
-![A glowing pearl marble with a solar wind type effect achieved through feedback and bloom](pearlball.gif)
+![A TouchDesigner network showing a noise CHOP being converted into a DAT then back into a CHOP for averaging](data-smoothing.gif)
 
 Demonstrates calculating a running average on input data from a CHOP (i.e. arduino serial) in order to smooth out changes in the data.
 
