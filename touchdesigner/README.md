@@ -2,6 +2,10 @@
 
 ![A screenshot of a TouchDesigner file showing three operators, a serial DAT, a datTo CHOP, and a trail CHOP showing a signal](arduino-serial/serial.gif)
 
+# [audio-reactive-bass](audio-reactive-bass)
+
+![A TouchDesigner network showing audio reactivity to just the bass part of an audio file input](audio-reactive-bass/audio-reactive-bass.gif)
+
 # [audio-reactive-histogram](audio-reactive-histogram)
 
 <img width="1392" alt="Screenshot 2023-03-28 at 16 38 25" src="https://user-images.githubusercontent.com/3166481/228291685-7f1a26e4-2f01-4c4d-9fd4-61084189f5d4.png">
