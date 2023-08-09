@@ -10,20 +10,12 @@ Compiled by and maintained by [@mngyuan](https://github.com/mngyuan)
 
 [Download the whole repository as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip) and open the files in the folder corresponding to the example you want to try.
 
-You can submit requests for new examples or corrections using issues or pull requests respectively.
+You can submit requests for new examples or corrections using [issues](issues) or [pull requests](pulls) respectively.
 
-# [TouchDesigner Examples](touchdesigner)
+## [TouchDesigner Examples](touchdesigner)
 
 Example files for various tasks in TouchDesigner.
 
-# [Javascript Examples](js)
+## [Javascript Examples](js)
 
 Examples and links to live demos with p5js, vanilla js, and more.
-
-# Resources
-
-[Introduction to TouchDesigner eBook](https://nvoid.gitbooks.io/introduction-to-touchdesigner/content/)
-
-[Visualizing Sound: A Beginner’s Guide to Using TouchDesigner with Live](https://www.ableton.com/en/blog/visualizing-sound-a-beginners-guide-to-using-touchdesigner-with-live/)
-
-[TouchDesigner example files with YouTube tutorials](https://github.com/exsstas/TD-tutorials)
