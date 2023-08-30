@@ -61,6 +61,7 @@ function setup() {
   createCanvas(1000, 1000);
   // console.log(squares);
 
+  // created using ramp TOPs in touchdesigner
   lookupVideo = createVideo('radial-sweep-slow-1000-24fps.mp4');
   lookupVideo.size(1000, 1000);
   lookupVideo.volume(0);
