@@ -42,6 +42,10 @@
 
 ![Moving textures which look vaguely like a brain scan](noise-loop-with-rgbadelay/noise-loop-with-rgbadelay.gif)
 
+# [noise-simple](noise-simple)
+
+![Black tiles with beige and red circles are shown jumping around an orange background](noise-simple/noise-simple.gif)
+
 # [opencv-background-removal](opencv-background-removal)
 
 ![A black and white video showing background removal - the empty background is now white and the foreground, which is a man sitting looking at the screen, is white](opencv-background-removal/bgr.gif)
