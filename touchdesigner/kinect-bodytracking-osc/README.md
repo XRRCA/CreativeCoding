@@ -14,4 +14,4 @@ It also makes use of the Spatial Audio Lab in RCA White City, but you can use an
 
 ![Alt text](kinect-bodytracking-osc.gif)
 
-[Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/kinect-bodytracking-osc/kinect-bodytracking-osc.zip) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
+[Download this example](https://github.com/trencrumb/CreativeCoding/raw/main/touchdesigner/kinect-bodytracking-osc/kinect-bodytracking-osc.zip) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
