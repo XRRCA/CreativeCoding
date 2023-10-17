@@ -2,6 +2,14 @@
 
 We're really glad you're reading this, because community contributions help all of us in creative computing.
 
+# New contributor guide
+
+If it's your first time contributing to open source, welcome! Here are some resources to help you get started:
+
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
+- [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+- [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
+
 # Submitting a new example
 
 New examples should demonstrate as succinctly as possible a single concept at a time, and given a short, descriptive name.
