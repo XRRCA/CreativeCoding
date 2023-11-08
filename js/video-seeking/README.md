@@ -1,5 +1,7 @@
 # [Video Seeking Mouse Interaction](https://xrrca.github.io/CreativeCoding/js/video-seeking/)
 
+![A video of drone footage of beautiful mountains, controlled by a mouse](video-seeking.gif)
+
 Based on the effect from https://cantouchthis.studio/. [Try it live](https://xrrca.github.io/CreativeCoding/js/video-seeking/).
 
 ## Generating Images

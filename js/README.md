@@ -28,4 +28,6 @@ Try the [live demo](https://editor.p5js.org/mngyuan/sketches/a3PbXLiyB)
 
 # [video-seeking](https://xrrca.github.io/CreativeCoding/js/video-seeking/)
 
+![A video of drone footage of beautiful mountains, controlled by a mouse](video-seeking/video-seeking.gif)
+
 Try the [live demo](https://xrrca.github.io/CreativeCoding/js/video-seeking/)
