@@ -14,6 +14,10 @@
 
 ![A TouchDesigner network showing audio reactivity to an audio file input](audio-reactive-simple/audio-reactive-simple.gif)
 
+# [color-lookup](color-lookup)
+
+![A wavy gradient pattern with some TouchDesigner nodes in front](color-lookup/color-lookup.png)
+
 # [color-lookup-custom](color-lookup-custom)
 
 ![A wave-like pattern oscillating between three different bright colors](color-lookup-custom/color-lookup.gif)
