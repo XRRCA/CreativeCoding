@@ -4,4 +4,4 @@ An example of programatically changing colors for Lookups and Ramps. The Ramp TO
 
 ![A wave-like pattern oscillating between three different bright colors](color-lookup.gif)
 
-[Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/color-lookup-custom/color-lookup-customm.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
+[Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/touchdesigner/color-lookup-custom/color-lookup-custom.toe) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
