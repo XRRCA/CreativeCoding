@@ -66,6 +66,10 @@
 
 ![Screenshot 2023-03-29 at 12 51 46](https://user-images.githubusercontent.com/3166481/228526994-121ca01e-d93e-4294-a185-d6a7c3e60c63.png)
 
+# [particle-feedback-2d](particle-feedback-2d)
+
+![Swirling lines of black and white](particle-feedback-2d/particle-feedback-2d.gif)
+
 # [shaders-shadertoy-dither](shaders-shadertoy-dither)
 
 ![A picture of oil drums, dithered. Dithering is a technique which was used to convert higher bit depth images to lower bit depth images, i.e. 8 bit (256) color to 1 bit (black and white). It was used for early computer systems to save space.](shaders-shadertoy-dither/shadertoy-dither.png)
