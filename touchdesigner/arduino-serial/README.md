@@ -4,7 +4,7 @@ Uses a serial DAT to bring data over Serial into TouchDesigner. The data is used
 
 ![A screenshot of a TouchDesigner file showing three operators, a serial DAT, a datTo CHOP, and a trail CHOP showing a signal](serial.gif)
 
-This example is designed to be used with the [AnalogInput built-in example for Arduino](https://docs.arduino.cc/built-in-examples/analog/AnalogInput).
+This example is designed to be used with the [AnalogReadSerial built-in example for Arduino](https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial).
 
 ![A circuit diagram with a potentiometer hooked up to an Arduino](https://docs.arduino.cc/static/2e2882d8348e2aa70bcac68d886bf9a4/29114/circuit-pot.png)
 
