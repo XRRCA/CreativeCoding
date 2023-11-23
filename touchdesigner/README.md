@@ -1,3 +1,7 @@
+# 3d-simple
+
+![3d generated video of a flyby of a shrine atop Mt. Fuji](3d-simple/3d-simple.gif)
+
 # [arduino-serial](arduino-serial)
 
 ![A screenshot of a TouchDesigner file showing three operators, a serial DAT, a datTo CHOP, and a trail CHOP showing a signal](arduino-serial/serial.gif)
