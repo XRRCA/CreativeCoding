@@ -1,4 +1,4 @@
-# 3d-simple
+# [3d-simple](3d-simple)
 
 ![3d generated video of a flyby of a shrine atop Mt. Fuji](3d-simple/3d-simple.gif)
 
