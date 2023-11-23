@@ -78,6 +78,10 @@
 
 ![A picture of oil drums, dithered. Dithering is a technique which was used to convert higher bit depth images to lower bit depth images, i.e. 8 bit (256) color to 1 bit (black and white). It was used for early computer systems to save space.](shaders-shadertoy-dither/shadertoy-dither.png)
 
+# [video-folder-player](video-folder-player)
+
+![A video playlist being changed automatically by TouchDesigner](video-folder-player/video-folder-player.gif)
+
 # [video-projection-synced](video-projection-synced)
 
 ![A TouchDesigner file showing a network of video files playing at the same time](video-projection-synced/video-projection-synced.png)
