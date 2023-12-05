@@ -19,3 +19,7 @@ Example files for various tasks in TouchDesigner.
 ## [Javascript Examples](js)
 
 Examples and links to live demos with p5js, vanilla js, and more.
+
+## [Puredata Examples](puredata)
+
+Examples files for various functions in PureData/PlugData.
