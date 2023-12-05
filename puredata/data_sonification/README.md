@@ -1,5 +1,7 @@
 # Data Sonification Example
 
+![screengrab of puredata patch in plugdata](plugdata.gif)
+
 Using the <https://wheretheiss.at/> api, we do regular webrequests and send the ISSs latitude, longtitude, and altitude over the local network (localhost or 127.0.0.1) using the Open Sound Control protocol.
 
 This is the then recieved into PureData/PlugData and effects various paramaters of a sawtooth oscillator such as the phase, filter cutoff, frequency, and pulsewidth modulation.
