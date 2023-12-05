@@ -47,4 +47,4 @@ python .\src\main.py
 
 To cancel the executing script hit ctrl+c.
 
-[Download this example](https://github.com/trencrumb/CreativeCoding/raw/main/puredata/data_sonification/data_sonification.zip) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
+[Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/puredata/data_sonification/data_sonification.zip) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
