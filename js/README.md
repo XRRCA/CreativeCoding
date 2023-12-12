@@ -6,6 +6,12 @@ Try the [live demo](https://editor.p5js.org/mngyuan/sketches/Q75alNf_G).
 
 Try the [live demo](https://editor.p5js.org/mngyuan/sketches/6bLYkyJTZ)
 
+# [collision-circle](collision-circle)
+
+![A black circle which turns into just an outline when the mouse is on top of it](collision-circle/collision-circle.gif)
+
+Try the [live demo](https://editor.p5js.org/mngyuan/sketches/2IdBcrGFm)
+
 # [nodejs-arduino](nodejs-arduino)
 
 [![Arduino schematic showing a potentiometer connected to analog port 3](https://user-images.githubusercontent.com/3166481/225881787-4cc9e33f-ddb4-4e5a-b4f2-20a7048f5aea.png)](https://www.circuito.io/app?components=512,11021,172542)
