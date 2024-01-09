@@ -20,7 +20,7 @@
 #X text 310 44 osc sender;
 #X text 679 54 osc reciever;
 #X text 429 30 these can be on separete instances of pd \; if you want to go from different devices you have to find the broadcast address of your network usually ending in 0.255;
-#X text 481 108 e.g. 10.216.216.255;
+#X text 483 89 e.g. 10.216.216.255;
 #X msg 649 104 listen 9999;
 #X msg 748 104 listen 0;
 #X obj 649 140 netreceive 9999;
