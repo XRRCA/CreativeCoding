@@ -16,6 +16,9 @@ sniff_to_sound.py: Sniffs network traffic on a specified interface, extracts TCP
 
 # Notes: for using in PureData with the [oscparse] and [route] objects.
 
+# to import the modules you first need to have a python interpretor installed, recommend conda.
+# then in the terminal run: pip install scapy python-osc
+
 # Import the necessary modules
 from scapy.all import *
 from pythonosc import udp_client
