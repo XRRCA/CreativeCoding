@@ -12,6 +12,10 @@ Try the [live demo](https://editor.p5js.org/mngyuan/sketches/6bLYkyJTZ)
 
 Try the [live demo](https://editor.p5js.org/mngyuan/sketches/2IdBcrGFm)
 
+# [multiple-sketches](multiple-sketches)
+
+![Two rectangles on top of each other, one gray, one black, each with a circle inside, one blue, one green.](multiple-sketches/multiple-sketches.jpg)
+
 # [nodejs-arduino](nodejs-arduino)
 
 [![Arduino schematic showing a potentiometer connected to analog port 3](https://user-images.githubusercontent.com/3166481/225881787-4cc9e33f-ddb4-4e5a-b4f2-20a7048f5aea.png)](https://www.circuito.io/app?components=512,11021,172542)
