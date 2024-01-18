@@ -30,6 +30,14 @@
 
 ![A TouchDesigner network showing a noise CHOP being converted into a DAT then back into a CHOP for averaging](data-smoothing/data-smoothing.gif)
 
+# [fade-between](fade-between)
+
+![A butterfly, starfish, and another butterfly fading between each other](fade-between/fade-between.gif)
+
+# [fade-simple](fade-simple)
+
+![A banana fading to a butterfly and back again, based on an on-screen slider's movement](fade-simple/fade-simple.gif)
+
 # [feedback-bloom](feedback-bloom)
 
 ![A glowing pearl marble with a solar wind type effect achieved through feedback and bloom](feedback-bloom/pearlball.gif)
