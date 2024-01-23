@@ -54,6 +54,10 @@
 
 ![Screenshot 2023-03-17 at 15 22 32](https://user-images.githubusercontent.com/3166481/225947780-7751597f-ce37-40bb-8ea3-41f01b6c93bf.png)
 
+# [kinect-bodytracking-osc](kinect-bodytracking-osc)
+
+![Screen recording of a camera showing someone walking around a room, with audio data reacting to their position in the room](kinect-bodytracking-osc/kinect-bodytracking-osc.gif)
+
 # [math-velocity](math-velocity)
 
 ![A TouchDesigner file showing velocity calculation with CHOPs](math-velocity/velocity.png)
