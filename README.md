@@ -12,14 +12,18 @@ Compiled by and maintained by [@mngyuan](https://github.com/mngyuan)
 
 You can submit requests for new examples or corrections using [issues](issues) or [pull requests](pulls) respectively.
 
-## [TouchDesigner Examples](touchdesigner)
-
-Example files for various tasks in TouchDesigner.
-
 ## [Javascript Examples](js)
 
 Examples and links to live demos with p5js, vanilla js, and more.
 
 ## [Puredata Examples](puredata)
 
-Examples files for various functions in PureData/PlugData.
+Example files for various functions in PureData/PlugData.
+
+## [Python Examples](py)
+
+Example files for various tasks in Python with OpenCV and more.
+
+## [TouchDesigner Examples](touchdesigner)
+
+Example files for various tasks in TouchDesigner.
