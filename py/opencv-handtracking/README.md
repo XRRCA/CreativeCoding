@@ -24,6 +24,18 @@ Install required packages as listed in `requirements.txt`
 pip install -r requirements.txt
 ```
 
+Run the example
+
+```
+python opencv-handtracking.py
+```
+
+When you're done, you can exit the virtual environment by running
+
+```
+deactivate
+```
+
 [Download this example](https://github.com/XRRCA/CreativeCoding/raw/main/py/opencv-handtracking/opencv-handtracking.zip) | [Download all examples as `.zip`](https://github.com/XRRCA/CreativeCoding/archive/refs/heads/main.zip)
 
 Adapted from https://www.analyticsvidhya.com/blog/2021/07/building-a-hand-tracking-system-using-opencv/
