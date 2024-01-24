@@ -1,46 +1,40 @@
-// Your OpenAI API key
-const apiKey = 'YOUR_API_KEY_HERE';
+const API_KEY = "YOUR_OPENAI_API_KEY";
 
-// API endpoint for GPT-3 (adjust for the model you are using)
-const apiUrl = 'https://api.openai.com/v1/completions';
+async function fetchChatGPTCompletion() {
+  const messages = [
+    { role: "system", content: "You are a helpful assistant." },
+    {
+      role: "user",
+      content:
+        "Translate the following English text to French: 'Hello, how are you?'",
+    },
+  ];
 
-const conversation = [
-  {role: 'system', content: 'You are a helpful assistant.'},
-  {
-    role: 'user',
-    content:
-      'Translate the following English text to French: "Hello, how are you?"',
-  },
-];
+  const data = {
+    model: "gpt-3.5-turbo",
+    messages: messages,
+  };
 
-const headers = new Headers({
-  Authorization: `Bearer ${apiKey}`,
-  'Content-Type': 'application/json',
-});
+  const response = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${API_KEY}`,
+    },
+    body: JSON.stringify(data),
+  });
 
-const requestData = {
-  messages: conversation,
-  max_tokens: 50,
-};
-
-async function makeApiRequest() {
-  try {
-    const response = await fetch(apiUrl, {
-      method: 'POST',
-      headers: headers,
-      body: JSON.stringify(requestData),
-    });
-
-    if (!response.ok) {
-      throw new Error(`HTTP error! Status: ${response.status}`);
-    }
-
-    const data = await response.json();
-    const reply = data.choices[0].message.content;
-    console.log(`AI Response: ${reply}`);
-  } catch (error) {
-    console.error('API Request Error:', error);
+  if (!response.ok) {
+    // Handle errors
+    console.error("Error in API request", await response.text());
+    return;
   }
+
+  const responseData = await response.json();
+  console.log("Received response:", responseData);
+  return responseData.choices[0].message.content.trim();
 }
 
-makeApiRequest();
+fetchChatGPTCompletion()
+  .then((completion) => console.log("Completion:", completion))
+  .catch((error) => console.error("Error:", error));
