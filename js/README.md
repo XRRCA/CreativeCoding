@@ -12,6 +12,10 @@ Try the [live demo](https://editor.p5js.org/mngyuan/sketches/6bLYkyJTZ)
 
 Try the [live demo](https://editor.p5js.org/mngyuan/sketches/2IdBcrGFm)
 
+# [fullscreen](fullscreen)
+
+Try the [live demo](https://editor.p5js.org/mngyuan/sketches/PuJcZonyN)
+
 # [multiple-sketches](multiple-sketches)
 
 ![Two rectangles on top of each other, one gray, one black, each with a circle inside, one blue, one green.](multiple-sketches/multiple-sketches.jpg)
