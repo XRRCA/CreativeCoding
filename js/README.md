@@ -6,6 +6,10 @@ Try the [live demo](https://editor.p5js.org/mngyuan/sketches/Q75alNf_G).
 
 Try the [live demo](https://editor.p5js.org/mngyuan/sketches/6bLYkyJTZ)
 
+# [collision-blobs](collision-blobs)
+
+![An image of table full of food set for many guests, upon which is written "Bruschetta Caprese"](collision-blobs/collision-blobs.jpg)
+
 # [collision-circle](collision-circle)
 
 ![A black circle which turns into just an outline when the mouse is on top of it](collision-circle/collision-circle.gif)
