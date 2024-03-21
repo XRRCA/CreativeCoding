@@ -32,6 +32,10 @@ Try the [live demo](https://editor.p5js.org/mngyuan/sketches/PuJcZonyN)
 
 # [osc-websocket](osc-websocket)
 
+# [sensors-compass](sensors-compass)
+
+![A phone being rotated while the compass needle on the screen stays oriented in one direction.](sensors-compass/compass.gif)
+
 # [shaders-bloom](shaders-bloom)
 
 ![An anime drawing of a woman standing above a cityscape. The scene glows with a blurred white light, controlled by a computer mouse seen moving above the image](https://user-images.githubusercontent.com/3166481/234556201-da287a65-9d6e-4c2c-b65d-ac144592fafb.gif)
