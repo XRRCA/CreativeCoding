@@ -13,3 +13,7 @@
 # [osc-simple](osc-simple)
 
 ![A Protokol window showing some messages were sent over OSC](osc-simple/osc-simple.jpg)
+
+# [stable-diffusion](stable-diffusion)
+
+![messiah, Muad'dib, Lisan al Gaib, brave, portrait, film, kodak ultramax, overexposed, 35mm f/2](stable-diffusion/test.png)
