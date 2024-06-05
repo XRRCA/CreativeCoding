@@ -29,7 +29,7 @@ To run the script in your terminal run the following command
 - this needs to be run as a sudo user!!
 
 ```bash
-sudo python ./main.py
+sudo python ./sniff_to_sound.py
 ```
 
 To cancel the executing script hit ctrl+c.
